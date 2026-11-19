@@ -14,6 +14,9 @@ Benares, 1916) — all 24 chapters, summarised chapter by chapter.
   (12,380 words), 5 narration segments per chapter.
 - `scripts/ch01/` … `scripts/ch24/` — the same scripts, one folder per chapter
   (`seg1.txt` … `seg5.txt` in each).
+- `images/ch01/` … `images/ch24/` — the AI-generated images used in the video
+  (96 images, segments 2–5 of each chapter; segment 1 is a title card, not an
+  image). Warm sepia/amber painterly style, no text, no people.
 - `chapters.txt` — the video's chapter timestamps (YouTube chapters).
 
 ## About the scripts
